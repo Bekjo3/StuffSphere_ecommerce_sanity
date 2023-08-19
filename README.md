@@ -9,7 +9,6 @@ This project is an e-commerce web application that enables users to conveniently
 - Secure Payments: Utilize the Stripe payment gateway for safe and convenient transactions.
 - Order Confirmation: Receive email confirmation after successfully completing a purchase.
 - Product Management: Use the Sanity to easily add, edit, and manage products.
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ### Deployment preview 
 [Click here](https://stuff-sphere-ecommerce-sanity-ipopckage.vercel.app/)
@@ -38,7 +37,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ![image](https://github.com/Bekjo3/StuffSphere_ecommerce_sanity/assets/114708848/b830e303-2ec5-416c-8600-905199973be4)
 
 ## Getting Started
-
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 First, run the development server:
 
 ```bash
